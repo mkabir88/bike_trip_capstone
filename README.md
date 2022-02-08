@@ -1,2 +1,2 @@
-# Python_test_upload
- trying to uoload
+# New_york_bike_trip_capstone
+Details
